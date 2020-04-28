@@ -1,10 +1,10 @@
 var authConfig = {
-  siteName: "盘Ta", // 网站名称
+  siteName: "GoIndex", // 网站名称
   root_pass: "", // 根目录密码，优先于.password
   version: "1.0.0", // 程序版本
-  client_id: "202264815644.apps.googleusercontent.com",
-  client_secret: "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-  refresh_token: "", // 授权 token
+  client_id: "667396931146-g6nb385hp81qdfhn3tjl0jtg421drsih.apps.googleusercontent.com",
+  client_secret: "gsZAkbL-KtQAMemF833TX5MG",
+  refresh_token: "1//0eunoZAdx-3k8CgYIARAAGA4SNwF-L9IroaTq4yEm_GoH6GmUXaOzo6vreF5kq6wr9h7H1V53Jz-vP0hIZVJFQILXX4VlC1DRx9k", // 授权 token
   root: "" // 根目录ID
 };
 
